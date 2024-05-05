@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning React<br>👯 I'm looking to collaborate on Laravel projects.<br>💬You can ask me in PHP, Laravel, HTML5, CSS3, SASS, JavaScript, MySQL<br>⚡ Hard-working mode
+🔭 Laravel backend develpor<br>👯 I'm looking to collaborate on Laravel projects.<br>💬You can ask me in PHP, Laravel, HTML5, CSS3, SASS, JavaScript, MySQL<br>⚡ Hard-working mode
 
 
 ## 🌐 Socials:
