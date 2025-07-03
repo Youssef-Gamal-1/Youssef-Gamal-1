@@ -34,7 +34,6 @@
 ## 📫 Contact Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/youssef-gamal-582300262/)  
-- 🐙 [GitHub](https://github.com/Youssef-Gamal-1)  
 - ✉️ Email: `yg9552753@gmail.com`
 
 ---
