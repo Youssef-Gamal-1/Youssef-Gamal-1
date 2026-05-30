@@ -54,9 +54,9 @@ I actively hunt, practice, and solve exploitation challenges on major offensive 
 
 ## 🤝 Connect With Me
 
-*   **LinkedIn:** [Your LinkedIn Profile URL]
+*   **LinkedIn:** https://www.linkedin.com/in/youssef-gamal-582300262/
 *   **Email:** yg9552753@gmail.com
-*   **Hack The Box Profile:** [Your HTB Profile URL]
+*   **Hack The Box Profile:** https://profile.hackthebox.com/profile/019e63fb-b028-7240-84e8-7ff9b970e828
 
 ---
 
