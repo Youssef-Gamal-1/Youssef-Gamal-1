@@ -1,64 +1,66 @@
 # Hi there, I'm Youssef Gamal 👋
 
-### Junior Penetration Tester & Security Enthusiast | Ex-Full Stack Developer
-Based in Cairo, Egypt 🇪🇬
+### Penetration Tester & Security Enthusiast
 
-I am an entry-level Penetration Tester bridging the gap between secure code development and offensive security methodologies. With a robust background in Full-Stack Web Development, my core focus lies in **Web Application Security**, **API Assessments**, and **Mobile (Android) Application Hacking**.
+Based in Egypt 🇪🇬
 
----
+I enjoy breaking things apart to understand how they work—and, more importantly, how they fail. My current interests revolve around **web exploitation**, **mobile application security**, and **Active Directory attack paths**.
 
-## 🚀 Technical Expertise
-
-### 🛡️ Offensive Security & Penetration Testing
-*   **Web & API Security:** OWASP Top 10 vulnerabilities, manual API assessment, business logic flaws, and reconnaissance workflows.
-*   **Android Security:** Static & dynamic APK analysis, reverse engineering, dynamic instrumentation using **Frida**, SSL pinning bypasses, root detection bypasses, and Android Debug Bridge (ADB) environment configuration.
-*   **Tools:** Burp Suite (Advanced Request Manipulation), Nmap, Android Emulators, APK Analysis tools, Kali Linux security frameworks.
-
-### 💻 Software Development
-*   **Languages & Frameworks:** PHP, Laravel, MySQL, JavaScript, HTML5, CSS3.
-*   **Core Fundamentals:** Secure application design, input validation, role-based access control (RBAC) implementation, Networking Fundamentals, and Security Automation via Bash & Python scripting.
+Most of my time is spent solving labs, analyzing real attack chains, building testing environments, and documenting what I learn. I am particularly interested in the intersection between offensive security and software architecture: understanding not only *how* vulnerabilities are exploited, but also *why* they exist in the first place.
 
 ---
 
-## 🛠️ Featured Projects
+## 🧠 What I'm Currently Exploring
 
-### 🔒 Security Lab & Automation
-*   **Testing Lab Architecture:** Built and configured localized, custom penetration testing environments pairing specialized Kali Linux frameworks with Android emulators for safe application analysis.
-*   **Security Automation Scripts:** Authored custom Bash and Python helper scripts to streamline active reconnaissance, target enumeration, and learning workflows.
-
-### 🌐 Secure Development Applications
-*   **[Quality Management RESTful API](https://github.com/Youssef-Gamal-1/Quality-management-api)** 
-    *   *Built with:* Laravel, MySQL, RESTful APIs
-    *   *Security Focus:* Implemented strict input validation, data sanitization, and robust Role-Based Access Control (RBAC) handling to mitigate high-risk OWASP Top 10 API vulnerabilities.
-*   **[JoeStore E-Commerce Web Application](https://github.com/Youssef-Gamal-1/JoeStore)**
-    *   *Built with:* Native PHP, MySQL, HTML, CSS, JavaScript
-    *   *Overview:* A fully functional e-commerce platform featuring complete user registration/login, shopping cart mechanics, and a central admin control dashboard.
+* Web application security and complex attack chains.
+* Active Directory internals and enterprise attack paths.
+* Android reverse engineering and dynamic instrumentation with Frida.
+* Authentication mechanisms, Kerberos, and certificate-based attacks.
+* Security automation using Python and Bash.
 
 ---
 
-## 📚 Education & Continuous Training
+## 🔬 Playground
 
-*   **B.Sc. in Computers and Artificial Intelligence** – Benha University
-*   **OSCP Syllabus (Self-Study):** Completed complete course content focusing heavily on network penetration testing, manual privilege escalation, and active directory exploitation.
-*   **Android App Hacking - Black Belt Edition:** Deep dive into mobile application reverse engineering, dynamic analysis with Frida, and tracking mobile-specific vectors.
+My GitHub mostly contains:
 
----
-
-## 🎯 Practical Labs & CTF Presences
-I actively hunt, practice, and solve exploitation challenges on major offensive security platforms:
-*   **CyberTalents** 
-*   **Hack The Box**
-*   **PortSwigger Web Security Academy**
+* Hack The Box and lab write-ups.
+* Notes and methodologies from PortSwigger and security research.
+* Android security experiments.
+* Security automation scripts.
+* Personal projects built with security in mind.
 
 ---
 
-## 🤝 Connect With Me
+## 🛠️ Favorite Tools
 
-*   **LinkedIn:** https://www.linkedin.com/in/youssef-gamal-582300262/
-*   **Email:** yg9552753@gmail.com
-*   **Hack The Box Profile:** https://profile.hackthebox.com/profile/019e63fb-b028-7240-84e8-7ff9b970e828
+**Web:** Burp Suite, ffuf, Nmap, sqlmap
+
+**Active Directory:** BloodHound, Impacket, Certipy, CrackMapExec
+
+**Mobile:** Frida, JADX, ADB, APKTool
+
+**Development & Automation:** Python, Bash, PHP, Docker, Git
 
 ---
 
-### ⚡ Fun Fact
-"My development background means I don't just find vulnerabilities—I understand exactly why they happen in the source code and how a developer should remediate them properly."
+## 📚 Learning Journey
+
+* B.Sc. in Computer Science — Benha University.
+* Hack The Box Academy — Penetration Tester Path.
+* PortSwigger Web Security Academy.
+* Android Application Hacking — Black Belt Edition.
+* Currently preparing for CPTS.
+
+---
+
+## 🌐 Find Me Here
+
+* Portfolio: https://youssef-gamal-1.github.io/portfolio/
+* LinkedIn: https://www.linkedin.com/in/youssef-gamal-582300262/
+* Hack The Box: https://profile.hackthebox.com/profile/019e63fb-b028-7240-84e8-7ff9b970e828
+* Email: [yg9552753@gmail.com](mailto:yg9552753@gmail.com)
+
+---
+
+> "I don't just look for vulnerabilities—I aim to understand how they happen, how attackers exploit them, and how they can be effectively remediated."
