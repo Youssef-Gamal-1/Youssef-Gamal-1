@@ -1,66 +1,63 @@
 # Hi there, I'm Youssef Gamal 👋
 
-### Penetration Tester & Security Enthusiast
+### System Administrator | Infrastructure & Cybersecurity
 
 Based in Egypt 🇪🇬
 
-I enjoy breaking things apart to understand how they work—and, more importantly, how they fail. My current interests revolve around **web exploitation**, **mobile application security**, and **Active Directory attack paths**.
+I manage and secure multi-site production infrastructure—servers, Active Directory environments, firewalls, enterprise storage, and SIEM/EDR monitoring—while applying an offensive security mindset to harden systems against real-world attack paths.
 
-Most of my time is spent solving labs, analyzing real attack chains, building testing environments, and documenting what I learn. I am particularly interested in the intersection between offensive security and software architecture: understanding not only *how* vulnerabilities are exploited, but also *why* they exist in the first place.
-
----
-
-## 🧠 What I'm Currently Exploring
-
-* Web application security and complex attack chains.
-* Active Directory internals and enterprise attack paths.
-* Android reverse engineering and dynamic instrumentation with Frida.
-* Authentication mechanisms, Kerberos, and certificate-based attacks.
-* Security automation using Python and Bash.
+By day, I keep critical networks available, resilient, and monitored. Outside production hours, I break things in labs to understand how vulnerabilities happen, how attackers chain them together, and how defenders can close those gaps before they are exploited.
 
 ---
 
-## 🔬 Playground
+## 🛡️ What I Do & Explore
+
+- **Infrastructure & Systems Administration:** Active Directory (AD DS), Group Policy, Windows Server, Linux, enterprise NAS/SAN storage, and Veeam backups.
+- **Network & Perimeter Security:** FortiGate and DrayTek firewalls, IPsec site-to-site VPNs, segmentation, and traffic filtering.
+- **Monitoring & Detection Engineering:** Wazuh SIEM/EDR, Zabbix infrastructure monitoring, and vulnerability management (OpenVAS, Nessus).
+- **Offensive Security & Lab Research:** Active Directory attack paths (Kerberoasting, NTLM relay, RBCD, AD CS), web exploitation (OWASP Top 10), and Android dynamic analysis with Frida.
+- **Automation:** Scripting administrative workflows and security tasks using PowerShell, Python, and Bash.
+
+---
+
+## 🔬 Repositories & Playground
 
 My GitHub mostly contains:
 
-* Hack The Box and lab write-ups.
-* Notes and methodologies from PortSwigger and security research.
-* Android security experiments.
-* Security automation scripts.
-* Personal projects built with security in mind.
+- **Hack The Box & Lab Write-ups:** 15+ documented penetration-testing reports and attack walkthroughs.
+- **Home Lab Architectures:** Replicated enterprise Active Directory and file-sharing environments for testing defensive controls and attack paths.
+- **Automation Scripts:** PowerShell, Python, and Bash scripts for system administration, incident recovery, and reconnaissance.
+- **Security Research & Notes:** Methodologies covering Active Directory internals, PortSwigger labs, and Android security.
 
 ---
 
-## 🛠️ Favorite Tools
+## 🛠️ Tech & Security Stack
 
-**Web:** Burp Suite, ffuf, Nmap, sqlmap
+**Infrastructure & Networking:** Active Directory, Windows Server, Linux, FortiGate, DrayTek, IPsec VPN, Veeam, QNAP/Synology
 
-**Active Directory:** BloodHound, Impacket, Certipy, CrackMapExec
+**Monitoring & Defense:** Wazuh (SIEM/EDR), Zabbix, OpenVAS, Nessus
 
-**Mobile:** Frida, JADX, ADB, APKTool
+**Offensive Security:** Burp Suite, Nmap, Wireshark, BloodHound, Impacket, NetExec, Certipy, Frida, JADX
 
-**Development & Automation:** Python, Bash, PHP, Docker, Git
+**Scripting & Automation:** PowerShell, Python, Bash, Git
 
 ---
 
-## 📚 Learning Journey
+## 📚 Education & Certifications
 
-* B.Sc. in Computer Science — Benha University.
-* Hack The Box Academy — Penetration Tester Path.
-* PortSwigger Web Security Academy.
-* Android Application Hacking — Black Belt Edition.
-* Currently preparing for CPTS.
+- **B.Sc. in Information Systems** — Faculty of Computers and Artificial Intelligence, Benha University
+- **HTB Certified Penetration Testing Specialist (CPTS)** — In Progress (75%)
+- **PortSwigger Web Security Academy** & **Android Application Hacking (Black Belt Edition)**
 
 ---
 
 ## 🌐 Find Me Here
 
-* Portfolio: https://youssef-gamal-1.github.io/portfolio/
-* LinkedIn: https://www.linkedin.com/in/youssef-gamal-582300262/
-* Hack The Box: https://profile.hackthebox.com/profile/019e63fb-b028-7240-84e8-7ff9b970e828
-* Email: [yg9552753@gmail.com](mailto:yg9552753@gmail.com)
+- **Portfolio:** https://youssef-gamal-1.github.io/portfolio/
+- **LinkedIn:** https://www.linkedin.com/in/youssef-gamal-582300262/
+- **Hack The Box:** https://profile.hackthebox.com/profile/019e63fb-b028-7240-84e8-7ff9b970e828
+- **Email:** [youssef.gamal.tril@gmail.com](mailto:youssef.gamal.tril@gmail.com)
 
 ---
 
-> "I don't just look for vulnerabilities—I aim to understand how they happen, how attackers exploit them, and how they can be effectively remediated."
+> "Good defense starts with thinking like an attacker—understanding not just how systems break, but how to architect and monitor them so they don't."
